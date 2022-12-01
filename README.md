@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Udayakumar M Hiremath</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
