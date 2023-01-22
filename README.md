@@ -14,7 +14,7 @@
 <a href="https://twitter.com/mruser292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mruser292" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/udayakumar m hiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayakumar m hiremath" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/udayakumar m_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="udayakumar m_h" height="30" width="40" /></a>
-<a href="https://leetcode.com/UserDead/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="@udayakumar_mh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/udayakumar_MH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@udayakumar_mh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
