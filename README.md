@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayakumar21&label=Profile%20views&color=0e75b6&style=flat" alt="udayakumar21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mruser292" target="blank"><img src="https://img.shields.io/twitter/follow/mruser292?logo=twitter&style=for-the-badge" alt="mruser292" /></a> </p>
+
 
 - 🌱 I’m currently learning **React and MangoDB**
 
