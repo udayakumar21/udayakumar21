@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React and MangoDB**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mrproxy2000@gmail.com**
 
