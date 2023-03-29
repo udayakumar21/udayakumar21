@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning everything <img src="https://freepngimg.com/save/65086-emoticon-whatsapp-smiley-emoji-free-download-png-hq/1024x768">
 
 - 📫 How to reach me **mrproxy2000@gmail.com**
 
