@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate on federated digital identity (Project)
-- 💬 Ask me about Web Development,Firebase,CTF
+- 💬 Ask me about Web Development,Firebase,C++
 - 📫 How to reach me **mrproxy2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
