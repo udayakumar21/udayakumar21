@@ -7,8 +7,7 @@
 
 
 - 🌱 I’m currently learning everything 😂
-- #👯 I’m looking to collaborate on federated digital identity (Project)
-- Skills Full Stack Developer,Python,Firebase,C++
+- Skills Full Stack Developer,Python,C++,DSA
 - 📫 How to reach me **mrproxy2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
