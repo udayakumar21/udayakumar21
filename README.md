@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Udayakumar M Hiremath</h1>
+<h1 align="center">Hi 👋, I'm Udayakumar M H</h1>
 <h3 align="center">A passionate Software developer </h3>
 <img align="right" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayakumar21&label=Profile%20views&color=0e75b6&style=flat" alt="udayakumar21" /> </p>
