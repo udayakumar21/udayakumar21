@@ -1,5 +1,4 @@
-[![MasterHead]([https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif))]()</br>
-[![](https://visitcount.itsvg.in/api?id=akshayjoshi892&icon=0&color=1)](https://visitcount.itsvg.in)
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://akshay-joshii.netlify.app)</br>
 # 💫 About Me:
 I'm currently learning Angular and Node.Js
 ## 🌐 Socials:
