@@ -1,3 +1,5 @@
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]</br>
+
 [![](https://visitcount.itsvg.in/api?id=udayakumar21&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
@@ -14,8 +16,5 @@ I'm currently learning React and Node.Js
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=udayakumar21&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=udayakumar21&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
