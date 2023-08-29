@@ -1,6 +1,6 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://akshay-joshii.netlify.app)</br>
+[![MasterHead]([https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif))](https://akshay-joshii.netlify.app)</br>
 # 💫 About Me:
-I'm currently learning Angular and Node.Js
+I'm currently learning React and Node.Js
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/udayakumar-m-hiremath-61637a1b1/) 
 
