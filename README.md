@@ -1,4 +1,4 @@
-![MasterHead]![photo_2023-09-05_22-29-41](https://github.com/udayakumar21/udayakumar21/assets/67870825/48923dd4-aeb5-4454-99ea-5ea740958d59)</br>
+![photo_2023-09-05_22-29-41](https://github.com/udayakumar21/udayakumar21/assets/67870825/48923dd4-aeb5-4454-99ea-5ea740958d59)</br>
 
 [![](https://visitcount.itsvg.in/api?id=udayakumar21&icon=0&color=1)](https://visitcount.itsvg.in)
 
