@@ -1,4 +1,5 @@
-![photo_2023-09-05_22-29-41](https://github.com/udayakumar21/udayakumar21/assets/67870825/48923dd4-aeb5-4454-99ea-5ea740958d59)</br>
+
+![gargantua-black-5200x3250-9621](https://github.com/udayakumar21/udayakumar21/assets/67870825/bf25d444-c559-4c5c-be14-8a91bb8326ca)</br>
 
 [![](https://visitcount.itsvg.in/api?id=udayakumar21&icon=0&color=1)](https://visitcount.itsvg.in)
 
