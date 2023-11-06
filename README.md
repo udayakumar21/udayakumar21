@@ -16,8 +16,10 @@ I'm currently learning React and Node.Js
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayakumar21&show_icons=true&locale=en" alt="udayakumar21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh-chaudhary&show_icons=true&locale=en&layout=compact" alt="nilesh-chaudhary" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayakumar21&" alt="udayakumar21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh-chaudhary&show_icons=true&locale=en" alt="nilesh-chaudhary" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-chaudhary&" alt="nilesh-chaudhary" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
