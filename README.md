@@ -21,6 +21,5 @@ I'm currently learning React and Node.Js
 ![](https://github-contributor-stats.vercel.app/api?username=udayakumar21&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=udayakumar21&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
