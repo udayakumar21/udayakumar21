@@ -6,8 +6,6 @@
 # 💫 About Me:
 I'm currently learning React and Node.Js
 
-![animatedlogo](https://github.com/udayakumar21/udayakumar21/assets/67870825/f553c96b-7228-4953-b906-edc159183b1c)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/udayakumar-m-hiremath-61637a1b1/) 
