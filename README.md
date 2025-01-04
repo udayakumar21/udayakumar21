@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I'm currently learning DSA and React + Node
+Nothing Just a Tech!!
 
 
 ## 🌐 Socials:
